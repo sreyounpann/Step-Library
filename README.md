@@ -33,7 +33,7 @@ Users can manage their subscriptions on this page. Explore available subscriptio
 
 ### Download Book Page
 
-Access a wide range of STEP Library books on this page. Users can explore, search, and download their favorite books for offline reading.
+Access a wide range of STEP Library books on this page. Users can explore, and download their favorite books for offline reading.
 
 ![Screenshot 2024-01-04 151438](https://github.com/sreyounpann/Step-Library/assets/83297826/fa8a276c-b0c5-42cd-81dd-94e8caeb83c6)
 
