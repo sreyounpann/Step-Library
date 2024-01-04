@@ -10,14 +10,6 @@ Before running the project, make sure you have the following installed:
 
 - [Node.js](https://nodejs.org/) (which includes npm)
 
-## Project Setup
-
-1. Clone the repository:
-
-```bash
-git clone <repository-url>
-cd step-library
-
 ### Login Page
 
 The login page provides a secure authentication mechanism for users. Users can enter their credentials to access the STEP Library features.
@@ -45,6 +37,16 @@ Access a wide range of STEP Library books on this page. Users can explore, searc
 
 ![Screenshot 2024-01-04 151438](https://github.com/sreyounpann/Step-Library/assets/83297826/fa8a276c-b0c5-42cd-81dd-94e8caeb83c6)
 
+
+
+
+## Project Setup
+
+1. Clone the repository:
+
+```bash
+git clone <repository-url>
+cd step-library
 
 
 
