@@ -45,7 +45,7 @@ Access a wide range of STEP Library books on this page. Users can explore, and d
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/sreyounpann/Step-Library.git
 cd step-library
 
 
